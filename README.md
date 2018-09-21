@@ -186,6 +186,7 @@ France (FR)
 Italy (IT)
 Finland (FI)
 Sweden (SE)
+New Zealand (NZ)
 
 ## Special Thanks
 

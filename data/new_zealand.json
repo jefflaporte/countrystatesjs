@@ -1,0 +1,98 @@
+{
+  "name": "New Zealand",
+  "altSpellings": [
+    "NZ",
+    "Aotearoa"
+  ],
+  "ISO": {
+    "alpha2": "NZ",
+    "alpha3": "NZL"
+  },
+  "states": [
+    {
+      "abbreviation": "AUK",
+      "name": "Auckland",
+      "country": "NZ"
+    },
+    {
+      "abbreviation": "BOP",
+      "name": "Bay of Plenty",
+      "country": "NZ"
+    },
+    {
+      "abbreviation": "CAN",
+      "name": "Canterbury",
+      "country": "NZ"
+    },
+    {
+      "abbreviation": "GIZ",
+      "name": "Gisborne",
+      "country": "NZ"
+    },
+    {
+      "abbreviation": "HKB",
+      "name": "Hawke's Bay",
+      "country": "NZ"
+    },
+    {
+      "abbreviation": "MBH",
+      "name": "Marlborough",
+      "country": "NZ"
+    },
+    {
+      "abbreviation": "MWT",
+      "name": "Manawatu-Wanganui",
+      "country": "NZ"
+    },
+    {
+      "abbreviation": "NSN",
+      "name": "Nelson",
+      "country": "NZ"
+    },
+    {
+      "abbreviation": "NTL",
+      "name": "Northland",
+      "country": "NZ"
+    },
+    {
+      "abbreviation": "OTA",
+      "name": "Otago",
+      "country": "NZ"
+    },
+    {
+      "abbreviation": "STL",
+      "name": "Southland",
+      "country": "NZ"
+    },
+    {
+      "abbreviation": "TAS",
+      "name": "Tasman",
+      "country": "NZ"
+    },
+    {
+      "abbreviation": "TKI",
+      "name": "Taranaki",
+      "country": "NZ"
+    },
+    {
+      "abbreviation": "WKO",
+      "name": "Waikato",
+      "country": "NZ"
+    },
+    {
+      "abbreviation": "WGN",
+      "name": "Wellington",
+      "country": "NZ"
+    },
+    {
+      "abbreviation": "WTC",
+      "name": "West Coast",
+      "country": "NZ"
+    },
+    {
+      "abbreviation": "CIT",
+      "name": "Chatham Islands Territory",
+      "country": "NZ"
+    }
+  ]
+}
